@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="place_holder_icon_size">100.dp</dimen>
+    <dimen name="fab_end_padding">10.dp</dimen>
+    <dimen name="fab_start_padding">14.dp</dimen>
+    <dimen name="search_text_field_padding">16.dp</dimen>
+    <dimen name="search_text_field_corner_size">20.dp</dimen>
+    <dimen name="notes_screen_divider_padding">10.dp</dimen>
+    <dimen name="card_note_item_padding">4.dp</dimen>
+    <dimen name="card_note_item_corner_size">16.dp</dimen>
+    <dimen name="card_note_item_elevation">6.dp</dimen>
+    <dimen name="card_content_item_padding">14.dp</dimen>
+    <dimen name="card_content_title_padding_bottom">4.dp</dimen>
+    <dimen name="card_content_divider_vertical_padding">10.dp</dimen>
+    <dimen name="card_content_divider_end_padding">5.dp</dimen>
+    <dimen name="title_place_holder_text_size">22.sp</dimen>
+    <dimen name="title_text_field_top_padding">16.dp</dimen>
+</resources>

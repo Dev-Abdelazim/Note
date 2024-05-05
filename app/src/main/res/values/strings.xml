@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="message">No notes here yet</string>
+    <string name="add_new_icon_desc">Add New Note Icon</string>
+    <string name="search_label">Search</string>
+    <string name="notes_screen_top_app_bar_title">Notes</string>
+    <string name="change_theme_error_message"> Please change to light theme in your phone first.</string>
+    <string name="update_node_topbar_title">Update</string>
+    <string name="add_node_topbar_title">Add note</string>
+    <string name="title">Title</string>
+    <string name="desc_text">Start typing</string>
+    <string name="increase_text_size">Increase text size icon</string>
+    <string name="decrease_text_size">decrease text size icon</string>
+    <string name="desc_bold_icon">make text Blod Icon</string>
+    <string name="desc_italic_icon">Make text italic</string>
+    <string name="desc_close_edit_icon">Close Edit</string>
+    <string name="add_image">Add image icon</string>
+    <string name="add_todo">add todo icon</string>
+    <string name="edit_text">open edit text icon</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+</resources>
